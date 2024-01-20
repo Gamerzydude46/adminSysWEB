@@ -253,7 +253,7 @@ const UserManagement = () => {
                             <Table>
                                 <TableHead>
                                     <TableRow>
-                                        <TableCell><p className='font-extrabold text-purple-400 text-xl'>userName</p></TableCell>
+                                        <TableCell><p className='font-extrabold text-purple-400 text-xl'>Username</p></TableCell>
                                         <TableCell><p className='font-extrabold text-purple-400 text-xl'>Email</p></TableCell>
                                         <TableCell><p className='font-extrabold text-purple-400 text-xl'>Status</p></TableCell>
                                         <TableCell><p className='font-extrabold text-purple-400 justify-center flex text-xl'>Actions</p></TableCell>
